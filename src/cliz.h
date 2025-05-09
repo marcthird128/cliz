@@ -5,5 +5,6 @@
 #define __CLIZ_H
 
 #include "buffer.h"
+#include "vector.h"
 
 #endif

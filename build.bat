@@ -14,4 +14,4 @@ for %%f in ("src\*.c") do (
     )
 )
 
-ar rcs bin/cliz.lib obj/*.o
+ar rcs bin/libcliz.lib obj/*.o
